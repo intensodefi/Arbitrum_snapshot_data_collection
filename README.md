@@ -10,5 +10,5 @@ Run [graphql_data_fetch.py](https://github.com/intensodefi/Arbitrum_snapshot_dat
 
 ### Data
 Fetched data until March 4, 2023 could be found below
-https://drive.proton.me/urls/00JXY29DQC#Pq8oHQi3EIs7
-https://drive.proton.me/urls/3E2AHRETD0#gomKY82O79Ah
+- https://drive.proton.me/urls/00JXY29DQC#Pq8oHQi3EIs7
+- https://drive.proton.me/urls/3E2AHRETD0#gomKY82O79Ah
